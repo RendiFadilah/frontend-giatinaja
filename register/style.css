@@ -1,0 +1,37 @@
+body {
+    background: #ddd;
+}
+
+.container-box {
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background: #fff;
+    padding: 30px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    width: 100%;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+div a {
+    text-decoration: none;
+    color: #4CAF50;
+    text-align: center;
+}
